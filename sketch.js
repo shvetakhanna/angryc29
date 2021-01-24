@@ -65,6 +65,7 @@ function draw(){
     platform.display();
     //log6.display();
     slingshot.display();    
+    console.log("hello")
 }
 
 function mouseDragged(){
